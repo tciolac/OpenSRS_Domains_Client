@@ -1,0 +1,19 @@
+{
+    "handle":"TEST",
+    "details":
+    {
+        "first_name":"TEST",
+        "last_name":"TEST",
+        "org_name":"TEST INC",
+        "address1":"TEST",
+        "address2":"TEST",
+        "address3":"TEST",
+        "postal_code":"A0A0A0",
+        "city":"TORONTO",
+        "state":"ONTARIO",
+        "country":"CA",
+        "email":"TEST@TESTINC.COM",
+        "phone":"+1.4165550134",
+        "fax":"+1.4165550134"
+    }
+}

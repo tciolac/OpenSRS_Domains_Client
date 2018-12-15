@@ -1,0 +1,20 @@
+{
+    "handle":"default",
+    "details":
+    {
+        "first_name":"DEFAULT",
+        "last_name":"DEFAULT",
+        "org_name":"DEFAULT INC",
+        "address1":"DEFAULT",
+        "address2":"DEFAULT",
+        "address3":"DEFAULT",
+        "postal_code":"A0A0A0",
+        "city":"TORONTO",
+        "state":"ONTARIO",
+        "country":"CA",
+        "email":"DEFAULT@DEFAULTINC.COM",
+        "phone":"+1.4165550134",
+        "fax":"+1.4165550134"
+    }
+}
+
