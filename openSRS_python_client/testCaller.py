@@ -11,5 +11,5 @@ def testCall(service):
 				#if Arg contains '.' then nameserver
 				#else contact
 		response = osrs(1,1,'examplesarethebest.com','test','ns1.digitalocean.com','default','ns2.digitalocean.com','test')
-
-print(testCall(0))
+#check log folder for input and output
+testCall(0)
