@@ -8,7 +8,7 @@ def keyGuard(item,value):
 			'apiOpenSRSProd' : {
 				'user':'ENTERUSERNAME',
 				'apiKey':'ENTERAPIKEY',
-				'host':'rr-n1-tor.opensrs.net:55443'
+				'host':'https://rr-n1-tor.opensrs.net:55443'
 			}
 		}
 
